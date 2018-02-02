@@ -1,0 +1,39 @@
+//
+//  Localizable.strings
+//  Alumni
+//
+//  Created by alumnos on 10/1/18.
+//  Copyright © 2018 adrian. All rights reserved.
+//
+
+
+"labRegister" = "Register";
+"labLogin" = "Login";
+"labRecover" = "Recover Password";
+"username"="Username";
+"email"="Email";
+"password"="Password";
+"repeatpassword"="Repeat Password";
+"login"="Login";
+"alumni"="ALUMNI";
+"enter"="Enter";
+"send"="Send";
+"forgot"="Forgot Pass?";
+"register"="Register";
+"haveaccount"="Don't have an account?";
+"cancel"="Back";
+"labelReg"="Register";
+"reg"="Register";
+"imuser"="I'm user of ALUMNI";
+"newPassword"="New password";
+"introduceNewPassword"="Enter your new password";
+"repeatNewPasswordLbl"="Repeat password";
+"changePasswordButton"="Change";
+"backPasswordButton"="Back";
+"descriptionLblPassword"="Enter your email to change your password";
+"bienvenido" = "Welcome";
+"information"="Send your messages, watch your events, watch the latest news and catch up on job offers";
+"quieroempezar" = "I WANT TO START!";
+"recuperarcontraseña"="Recover password";
+"correoderestablecimiento"="Password reset email sent";
+"aceptar"="Accept";
